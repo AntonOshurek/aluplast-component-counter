@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/component-counter/static/css/main.172eedca.css",
+    "main.js": "/component-counter/static/js/main.b8fe1956.js",
+    "service-worker.js": "/component-counter/service-worker.js",
+    "static/media/UberMoveTextMedium.woff": "/component-counter/static/media/UberMoveTextMedium.02b9d7fae9e5893fa105.woff",
+    "static/media/UberMoveTextBold.woff": "/component-counter/static/media/UberMoveTextBold.4850c3c186ae134d3935.woff",
+    "static/media/UberMoveTextRegular.woff": "/component-counter/static/media/UberMoveTextRegular.23308ae1aff0afbf4fd2.woff",
+    "static/media/UberMoveTextLight.woff": "/component-counter/static/media/UberMoveTextLight.ae58af60af22825b56ac.woff",
+    "static/media/UberMoveTextMedium.woff2": "/component-counter/static/media/UberMoveTextMedium.e421171ddc7f0568b681.woff2",
+    "static/media/UberMoveTextRegular.woff2": "/component-counter/static/media/UberMoveTextRegular.5bd48b766aa3dd801de7.woff2",
+    "static/media/UberMoveTextBold.woff2": "/component-counter/static/media/UberMoveTextBold.69d2218131499eac7e18.woff2",
+    "static/media/UberMoveTextLight.woff2": "/component-counter/static/media/UberMoveTextLight.b5f293c65f446cbfeaaf.woff2",
+    "index.html": "/component-counter/index.html",
+    "main.172eedca.css.map": "/component-counter/static/css/main.172eedca.css.map",
+    "main.b8fe1956.js.map": "/component-counter/static/js/main.b8fe1956.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.172eedca.css",
+    "static/js/main.b8fe1956.js"
+  ]
+}
