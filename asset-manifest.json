@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/component-counter/static/css/main.8ab6de19.css",
-    "main.js": "/component-counter/static/js/main.65e8b752.js",
+    "main.js": "/component-counter/static/js/main.39ba8131.js",
     "service-worker.js": "/component-counter/service-worker.js",
     "static/media/UberMoveTextMedium.woff": "/component-counter/static/media/UberMoveTextMedium.02b9d7fae9e5893fa105.woff",
     "static/media/UberMoveTextBold.woff": "/component-counter/static/media/UberMoveTextBold.4850c3c186ae134d3935.woff",
@@ -13,10 +13,10 @@
     "static/media/UberMoveTextLight.woff2": "/component-counter/static/media/UberMoveTextLight.b5f293c65f446cbfeaaf.woff2",
     "index.html": "/component-counter/index.html",
     "main.8ab6de19.css.map": "/component-counter/static/css/main.8ab6de19.css.map",
-    "main.65e8b752.js.map": "/component-counter/static/js/main.65e8b752.js.map"
+    "main.39ba8131.js.map": "/component-counter/static/js/main.39ba8131.js.map"
   },
   "entrypoints": [
     "static/css/main.8ab6de19.css",
-    "static/js/main.65e8b752.js"
+    "static/js/main.39ba8131.js"
   ]
 }
