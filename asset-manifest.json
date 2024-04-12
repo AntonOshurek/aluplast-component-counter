@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/component-counter/static/css/main.1d45ff5a.css",
-    "main.js": "/component-counter/static/js/main.81902522.js",
-    "service-worker.js": "/component-counter/service-worker.js",
-    "static/media/UberMoveTextMedium.woff": "/component-counter/static/media/UberMoveTextMedium.02b9d7fae9e5893fa105.woff",
-    "static/media/UberMoveTextBold.woff": "/component-counter/static/media/UberMoveTextBold.4850c3c186ae134d3935.woff",
-    "static/media/UberMoveTextRegular.woff": "/component-counter/static/media/UberMoveTextRegular.23308ae1aff0afbf4fd2.woff",
-    "static/media/UberMoveTextLight.woff": "/component-counter/static/media/UberMoveTextLight.ae58af60af22825b56ac.woff",
-    "static/media/UberMoveTextMedium.woff2": "/component-counter/static/media/UberMoveTextMedium.e421171ddc7f0568b681.woff2",
-    "static/media/UberMoveTextRegular.woff2": "/component-counter/static/media/UberMoveTextRegular.5bd48b766aa3dd801de7.woff2",
-    "static/media/UberMoveTextBold.woff2": "/component-counter/static/media/UberMoveTextBold.69d2218131499eac7e18.woff2",
-    "static/media/UberMoveTextLight.woff2": "/component-counter/static/media/UberMoveTextLight.b5f293c65f446cbfeaaf.woff2",
-    "index.html": "/component-counter/index.html",
-    "main.1d45ff5a.css.map": "/component-counter/static/css/main.1d45ff5a.css.map",
-    "main.81902522.js.map": "/component-counter/static/js/main.81902522.js.map"
+    "main.css": "/manufacture-counter/static/css/main.de1ac4d5.css",
+    "main.js": "/manufacture-counter/static/js/main.37b7205e.js",
+    "service-worker.js": "/manufacture-counter/service-worker.js",
+    "static/media/UberMoveTextMedium.woff": "/manufacture-counter/static/media/UberMoveTextMedium.02b9d7fae9e5893fa105.woff",
+    "static/media/UberMoveTextBold.woff": "/manufacture-counter/static/media/UberMoveTextBold.4850c3c186ae134d3935.woff",
+    "static/media/UberMoveTextRegular.woff": "/manufacture-counter/static/media/UberMoveTextRegular.23308ae1aff0afbf4fd2.woff",
+    "static/media/UberMoveTextLight.woff": "/manufacture-counter/static/media/UberMoveTextLight.ae58af60af22825b56ac.woff",
+    "static/media/UberMoveTextMedium.woff2": "/manufacture-counter/static/media/UberMoveTextMedium.e421171ddc7f0568b681.woff2",
+    "static/media/UberMoveTextRegular.woff2": "/manufacture-counter/static/media/UberMoveTextRegular.5bd48b766aa3dd801de7.woff2",
+    "static/media/UberMoveTextBold.woff2": "/manufacture-counter/static/media/UberMoveTextBold.69d2218131499eac7e18.woff2",
+    "static/media/UberMoveTextLight.woff2": "/manufacture-counter/static/media/UberMoveTextLight.b5f293c65f446cbfeaaf.woff2",
+    "index.html": "/manufacture-counter/index.html",
+    "main.de1ac4d5.css.map": "/manufacture-counter/static/css/main.de1ac4d5.css.map",
+    "main.37b7205e.js.map": "/manufacture-counter/static/js/main.37b7205e.js.map"
   },
   "entrypoints": [
-    "static/css/main.1d45ff5a.css",
-    "static/js/main.81902522.js"
+    "static/css/main.de1ac4d5.css",
+    "static/js/main.37b7205e.js"
   ]
 }
