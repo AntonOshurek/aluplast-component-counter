@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/manufacture-counter/static/css/main.042a3730.css",
+    "main.css": "/manufacture-counter/static/css/main.99d590d8.css",
     "main.js": "/manufacture-counter/static/js/main.a5b830b5.js",
     "service-worker.js": "/manufacture-counter/service-worker.js",
     "static/media/UberMoveTextMedium.woff": "/manufacture-counter/static/media/UberMoveTextMedium.02b9d7fae9e5893fa105.woff",
@@ -12,11 +12,11 @@
     "static/media/UberMoveTextBold.woff2": "/manufacture-counter/static/media/UberMoveTextBold.69d2218131499eac7e18.woff2",
     "static/media/UberMoveTextLight.woff2": "/manufacture-counter/static/media/UberMoveTextLight.b5f293c65f446cbfeaaf.woff2",
     "index.html": "/manufacture-counter/index.html",
-    "main.042a3730.css.map": "/manufacture-counter/static/css/main.042a3730.css.map",
+    "main.99d590d8.css.map": "/manufacture-counter/static/css/main.99d590d8.css.map",
     "main.a5b830b5.js.map": "/manufacture-counter/static/js/main.a5b830b5.js.map"
   },
   "entrypoints": [
-    "static/css/main.042a3730.css",
+    "static/css/main.99d590d8.css",
     "static/js/main.a5b830b5.js"
   ]
 }
